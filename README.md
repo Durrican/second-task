@@ -6,7 +6,7 @@
 
 ![github](https://img.shields.io/badge/%7B%E4%BD%BF%E7%94%A8%E7%8E%AF%E5%A2%83%7D-%7Banaconda%E3%80%81python%7D-%7Bbrown%7D.svg)
 
-二、运行环境使:
+二、运行环境:
 
 用了anaconda以及python3.8相应的包
 
